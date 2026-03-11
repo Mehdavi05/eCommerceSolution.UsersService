@@ -1,0 +1,14 @@
+# Build folders
+**/bin/
+**/obj/
+
+# IDE settings
+**/.idea/
+**/.vs/
+**/.vscode/
+
+# macOS system files
+.DS_Store
+
+# User/project specific
+**/*.*proj.user
