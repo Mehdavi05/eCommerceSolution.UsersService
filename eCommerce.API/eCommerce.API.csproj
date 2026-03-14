@@ -24,6 +24,12 @@
         <ProjectReference Include="..\eCommerce.Infrastructure\eCommerce.Infrastructure.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="..\.dockerignore">
+        <Link>.dockerignore</Link>
+      </Content>
+    </ItemGroup>
+
     <PropertyGroup>
         <TargetFramework>net8.0</TargetFramework>
         <PreserveCompilationContext>true</PreserveCompilationContext>
